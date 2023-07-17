@@ -1,0 +1,1 @@
+run fitness prediction from https://github.com/broadinstitute/pyro-cov
